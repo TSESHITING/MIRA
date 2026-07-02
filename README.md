@@ -46,7 +46,7 @@ Players interact with four distinct, trope-defined characters based on their for
 
 ## 👥 Acknowledgments & References
 * **API Framework Reference:** The Google Gemini API connection architecture and C# parsing flow in this project were inspired and referenced from the open-source repository `Gemini_Chat_Avatar` by my university senior. 
-* **Developer Ecosystem:** This game is part of my interactive technology portfolio, complementing my other works in **WebAR** (`IN-THE-OTHER-SIDE-OF-THE-MOON`) and **MR Quest 3 Passthrough** (`NTUT_MR`).
+
 
 ---
 ---
@@ -87,4 +87,4 @@ Players interact with four distinct, trope-defined characters based on their for
 
 ## 👥 專案誌謝與技術參考
 * **API 架構參考**：本專案中關於 Google Gemini API 的網路串接架構與 C# 資料解析流程，參考並借鑑了課堂學姐的開源專案 `Gemini_Chat_Avatar`。
-* **開發者作品生態**：本遊戲為個人互動技術作品集的一部分，與我的 **WebAR 專案** (`IN-THE-OTHER-SIDE-OF-THE-MOON`) 以及 **Meta Quest 3 MR 專案** (`NTUT_MR`) 共同組成核心技術成果。
+
