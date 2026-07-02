@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Language-C%23-green.svg" alt="C#">
 </p>
 
-> **"They are not lazy, nor are they unfocused. We just need a better way to let them learn through play."**
+> **"Unveil your destiny through the power of idioms and Generative AI."**
 > 
 > Developed as the final project for the **Intelligent Human-Computer Interaction** course. `MIRA` is an innovative Unity 2D game that gamifies traditional Chinese idiom learning by combining it with psychological fortune-telling and modern Generative AI (**Google Gemini API**).
 
@@ -73,7 +73,7 @@ Players interact with four distinct, trope-defined characters based on their for
 ### ⚡ AI 驅動的核心遊戲循環 (Core Loop)
 1. **成語挑戰**：玩家選擇不同的元素（水木火土）後，系統會觸發相對應的成語卡片系列任務。
 2. **實時 AI 生圖**：當玩家成功回答並完成每一張成語卡片的挑戰時，遊戲後台會立即調用 **Google Gemini API**，根據該成語的意境，實時生成一張獨一無二的視覺圖片。
-3. **終極圖片融合 (Image Fusion)**：當四大元素卡片全部通關後，系統會下達進階 Prompt，**命令 Gemini 將前面生成的 4 張獨立圖片完美融合成一張最終的「命運大圖」**，作為屬於玩家個人的專屬占卜結局！
+3. **終極圖片融合 (Image Fusion)**：當四大元素卡片全部通關後，系統會下達進階 Prompt，**命令 Gemini 將前面生成的 4 張獨立圖片融合成一張最終的「命運大圖」**，作為屬於玩家個人的專屬占卜結局！
 
 ---
 
