@@ -87,7 +87,8 @@ Players interact with four distinct, trope-defined characters based on their for
 
 ## 👥 專案誌謝與技術參考
 * **API 架構參考**：本專案中關於 Google Gemini API 的網路串接架構與 C# 資料解析流程，參考並借鑑了課堂學姐的開源專案 `Gemini_Chat_Avatar`。
+
 ### 相关资源
 本项目的数据集和大型模型权重已上传至云端：
-- [下载数据集 (Google Drive)]([https://drive.google.com/drive/folders/1zusmcRZbIPxdZtNjt7FlKaN5_8XWm2q6?usp=drive_link])
+- [下载数据集 (Google Drive)](https://drive.google.com/drive/folders/1zusmcRZbIPxdZtNjt7FlKaN5_8XWm2q6?usp=drive_link)
 
