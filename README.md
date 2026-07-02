@@ -90,5 +90,5 @@ Players interact with four distinct, trope-defined characters based on their for
 
 ### 相关资源
 本项目的数据集和大型模型权重已上传至云端：
-- [下载数据集 (Google Drive)](https://drive.google.com/drive/folders/1zusmcRZbIPxdZtNjt7FlKaN5_8XWm2q6?usp=drive_link)
+- [下载数据集 (Google Drive)](https://drive.google.com/drive/folders/1H98Pa0R2HoELad9TbfbZAiYVY1fr0UHD?usp=drive_link)
 
