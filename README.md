@@ -56,7 +56,9 @@ Players interact with four distinct, trope-defined characters based on their for
 > **這是一款在大學「智慧人機互動（Intelligent Human-Computer Interaction）」課程中完成的期末創新專案。**
 
 `MIRA` 是一款將**傳統成語學習**與**心理占卜**、**現代生成式 AI（Google Gemini API）** 完美結合的 Unity 2D 遊戲。我們改變了以往枯燥乏味的死記硬背，透過充滿樂趣與故事性的玩法，讓玩家在互動中輕鬆學習成語。
-
+### Related Resources
+The dataset and pre-trained model weights are available on Google Drive:
+* **Dataset & Weights:** [Download via Google Drive](https://drive.google.com/drive/folders/1H98Pa0R2HoELad9TbfbZAiYVY1fr0UHD?usp=drive_link)
 ---
 
 ## 🎮 遊戲核心概念與玩法機制
